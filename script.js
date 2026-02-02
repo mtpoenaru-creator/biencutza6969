@@ -136,7 +136,7 @@ const extraLove = document.getElementById('extraLove');
 
 function setInitialPosition() {
     loveMeter.value = 0;
-    loveValue.textContent = 100;
+    loveValue.textContent = 0;
     loveMeter.style.width = '100%';
 }
 
