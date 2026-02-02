@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Salut buna ma mai iubesti ok",                                    // First interaction
             yesBtn: "DA",                                             // Text for "Yes" button
             noBtn: "NUUUU",                                               // Text for "No" button
-            secretAnswer: "NU TE IUBESC, TE VREAU POIANA POIENITA TE DORESK AHH ❤️"           // Secret hover message
+            secretAnswer: "NU TE IUBESC, TE VREAU POIANA POIENITA TE DORESK AHH"           // Secret hover message
         },
         second: {
             text: "Cat de mult ma iubesti BAAA",                          // For the love meter
