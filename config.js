@@ -79,7 +79,7 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dzu3zgnyo/video/upload/v1770065719/Jeremih_-_Birthday_Sex_gxmiwo.mp3", // Music streaming URL
-        startText: "🎵 DA DRUMU LA BOXE",        // Button text to start music
+        startText: "🎵 PIESA NOASTRA 😏",        // Button text to start music
         stopText: "🔇 Inchide aparatu",         // Button text to stop music
         volume: 1.0                        // Volume level (0.0 to 1.0)
     }
