@@ -155,7 +155,7 @@ loveMeter.addEventListener('input', () => {
         if (value >= 5000) {
             extraLove.classList.add('super-love');
             extraLove.textContent = config.loveMessages.extreme;
-        } else if (value > 100) {
+        } else if (value > 2000) {
             extraLove.classList.remove('super-love');
             extraLove.textContent = config.loveMessages.high;
         } else {
