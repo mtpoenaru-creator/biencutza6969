@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "VEI FI TU OARE VALENTINUL MEU PE DATA DE 14 FEBRUOARIE 2026? 🌹", // The big question!
-            yesBtn: "DEA",                                             // Text for "Yes" button
+            yesBtn: "DEA NORMAL REGELE MEU",                                             // Text for "Yes" button
             noBtn: "nu, cacanar ce esti ma duc cu F A B I"                                                 // Text for "No" button
         }
     },
